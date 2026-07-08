@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://looksmaxxings.app/</loc><priority>1.0</priority></url>
-  <url><loc>https://looksmaxxings.app/support.html</loc><priority>0.6</priority></url>
-  <url><loc>https://looksmaxxings.app/privacy.html</loc><priority>0.4</priority></url>
-  <url><loc>https://looksmaxxings.app/terms.html</loc><priority>0.4</priority></url>
+  <url><loc>https://looksmaxxings.app/</loc><lastmod>2026-07-08</lastmod><priority>1.0</priority></url>
+  <url><loc>https://looksmaxxings.app/guides/index.html</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://looksmaxxings.app/guides/what-is-looksmaxxing.html</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://looksmaxxings.app/guides/mewing.html</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://looksmaxxings.app/guides/jawline-exercises.html</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://looksmaxxings.app/guides/rate-my-face.html</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://looksmaxxings.app/guides/how-to-glow-up.html</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://looksmaxxings.app/guides/facial-symmetry-test.html</loc><lastmod>2026-07-08</lastmod><priority>0.7</priority></url>
+  <url><loc>https://looksmaxxings.app/guides/how-old-do-i-look.html</loc><lastmod>2026-07-08</lastmod><priority>0.7</priority></url>
+  <url><loc>https://looksmaxxings.app/guides/hunter-eyes-canthal-tilt.html</loc><lastmod>2026-07-08</lastmod><priority>0.7</priority></url>
+  <url><loc>https://looksmaxxings.app/guides/side-profile.html</loc><lastmod>2026-07-08</lastmod><priority>0.7</priority></url>
+  <url><loc>https://looksmaxxings.app/guides/skincare-routine-for-men.html</loc><lastmod>2026-07-08</lastmod><priority>0.7</priority></url>
+  <url><loc>https://looksmaxxings.app/support.html</loc><lastmod>2026-07-05</lastmod><priority>0.5</priority></url>
+  <url><loc>https://looksmaxxings.app/privacy.html</loc><lastmod>2026-07-05</lastmod><priority>0.4</priority></url>
+  <url><loc>https://looksmaxxings.app/terms.html</loc><lastmod>2026-07-05</lastmod><priority>0.4</priority></url>
 </urlset>
